@@ -22,7 +22,7 @@ More about the competition, duration, leaderboard etc. details
 ## Submission details
 
 I have submitted lot of ensemble models like 4 models of XGBoost, 2 models of Random Forest and also 3 models of FTRL.
-But my final model is of only **4 models of XGBoost**, which gave me **18<sup>th</sup> place in the public leaderboard**.
+But my final model is of only **4 models of XGBoost**, which gave me [**18<sup>th</sup> place](https://datahack.analyticsvidhya.com/contest/mckinsey-analytics-online-hackathon-ii/pvt_lb) in the public leaderboard**.
 
 The main files are :-
   1. xgb1.py
