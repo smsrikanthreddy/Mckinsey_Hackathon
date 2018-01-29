@@ -7,7 +7,7 @@ DATAPATH = 'F:/srikanth/data/k_data/AV/Mckinsay_Hackathon'
 
 test = pd.read_csv(os.path.join(DATAPATH,"test.csv"), usecols = ["ID"])
 
-preds = pd.read_csv(os.path.join(DATAPATH,"results","xgb_final.csv"))
+preds = pd.read_csv(os.path.join(DATAPATH,"results","xgb4_final.csv"))
 preds['ID'] = test['ID']
 preds1 = pd.read_csv(os.path.join(DATAPATH,"results","xgb1_final.csv"))
 preds2 = pd.read_csv(os.path.join(DATAPATH,"results","xgb2_final.csv"))
